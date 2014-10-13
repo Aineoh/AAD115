@@ -1,7 +1,7 @@
-AAD116
+AAD115
 ======
 
-Design journal for Introduction to Communication Design
+Design journal for interaction design fundamentals
 
 Week 1 
 ------
@@ -9,13 +9,15 @@ introduction
 
 Week 2
 ------
-Markdown work
+Point
 
 Week 3 
 ------
+Line
 
 Week 4 
 ------
+Plane
 
 Week 5 
 ------
