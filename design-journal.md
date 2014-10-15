@@ -5,7 +5,7 @@ Design journal for interaction design fundamentals
 
 Week 1 
 ------
-On our first week we learned about [Refresh](http://refreshbelfast.com) and [Break conference](http://breakconf.org) which a ares being held in belfast that we are all invited too. 
+On our first week we learned about [Refresh](http://refreshbelfast.com) and [Break conference](http://breakconf.org) which are talks being held in belfast that we are all invited too. 
 
 Week 2
 ------
